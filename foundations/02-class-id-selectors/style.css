@@ -1,0 +1,19 @@
+/*odd numbers red background , 1 and 5 same size and fint, 3 is larger font 
+2 is large no background and blue font 
+4 is large font, bold, and green background*/
+
+.odd-number {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.bigfont {
+    font-size: 24px;
+}
+#two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+#four{
+    font-weight: bold;
+    background-color: rgb(144, 238, 144);
+}
